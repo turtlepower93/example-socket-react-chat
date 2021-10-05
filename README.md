@@ -5,6 +5,6 @@ Simple live chat made with React.js that implements socket.io
 
 For now i've just connected the wires.
 
-#TODOS:
+# TODOS:
 
 ### STYLE THE WHOLE THING.
