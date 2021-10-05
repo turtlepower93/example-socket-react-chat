@@ -1,9 +1,9 @@
 # example-socket-react-chat
-Simple live chat made with React.js that implements socket.io
+h1 Simple live chat made with React.js that implements socket.io
 
-##I had no experience with socket.io and spent an afternoon trying to learn the basics.
+### I had no experience with socket.io and spent an afternoon trying to learn the basics.
 
-For now i've just connected the wires.
+## For now i've just connected the wires.
 
 # TODOS:
 
